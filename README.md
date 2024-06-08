@@ -1,16 +1,25 @@
-# flutter_application_1
+TEMEL İŞVELSELLİKLER
+Hatırlatıcı Ekleme: Kullanıcı, tarih ve saat seçerek yeni bir hatırlatıcı ekleyebilir. Hatırlatıcının başlığını belirterek, belirli bir zamanda bildirim alabilir.
 
-A new Flutter project.
+Geri Sayım Sayacı: Eklemiş olduğunuz hatırlatıcının kalan süresi bir sayaç ile gösterilir. Süre dolduğunda bir pop-up mesajı ile bildirim yapılır.
 
-## Getting Started
+Bildirimler: Belirlenen zamanda bir bildirim alırsınız ve bu bildirim ile etkinliğinizin zamanı geldiği size hatırlatılır.
 
-This project is a starting point for a Flutter application.
+PAKETLER
 
-A few resources to get you started if this is your first Flutter project:
+provider: Durum yönetimi için kullanılıyor. Hatırlatıcıların eklenmesi, düzenlenmesi ve silinmesi gibi işlemler için durum yönetimini sağlar.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+flutter_local_notifications: Yerel bildirimler oluşturmak için kullanılıyor. Hatırlatıcılarınızın belirlenen zamanda bildirim göstermesini sağlar.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+cupertino_icons: iOS stilinde ikonlar kullanmak için gerekli.
+
+intl: Uluslararasılaştırma ve yerelleştirme desteği sağlar. Tarih ve saat formatları gibi işlevler için kullanılabilir.
+
+shared_preferences: Kullanıcı tercihlerini ve küçük verileri cihazda yerel olarak saklamak için kullanılır. Hatırlatıcı verilerini depolamak için kullanılabilir.
+
+path_provider: Cihazın dosya sistemine erişim sağlar. Yerel depolama için dosya yollarını belirlemek için kullanılır.
+
+![Ekran görüntüsü 2024-06-08 224646](https://github.com/esmasila/HATIRLATICI-UYGULAMASI-/assets/168902924/ae43999f-786f-4006-8062-b06cab5137ba)
+
+
+
