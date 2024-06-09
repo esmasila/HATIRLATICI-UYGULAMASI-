@@ -38,7 +38,7 @@ class _AddReminderScreenState extends State<AddReminderScreen> {
                   onPressed: _pickDateTime,
                   child: Text('Tarih Seç'),
                   style: ElevatedButton.styleFrom(
-                    foregroundColor: const Color.fromARGB(255, 0, 0, 0), backgroundColor: const Color.fromARGB(255, 255, 255, 255),  // Butonun metin rengini burada değiştirin
+                    foregroundColor: const Color.fromARGB(255, 0, 0, 0), backgroundColor: const Color.fromARGB(255, 255, 255, 255), 
                   ),
                 ),
               ],
@@ -48,7 +48,7 @@ class _AddReminderScreenState extends State<AddReminderScreen> {
               onPressed: _addReminder,
               child: Text('Hatırlatıcı Ekle'),
               style: ElevatedButton.styleFrom(
-                foregroundColor: const Color.fromARGB(255, 0, 0, 0), backgroundColor: const Color.fromARGB(255, 255, 255, 255),  // Butonun metin rengini burada değiştirin
+                foregroundColor: const Color.fromARGB(255, 0, 0, 0), backgroundColor: const Color.fromARGB(255, 255, 255, 255), 
               ),
             ),
           ],
