@@ -111,7 +111,7 @@ class _AddReminderScreenState extends State<AddReminderScreen> {
     await flutterLocalNotificationsPlugin.schedule(
       0,
       'Hatırlatıcı: ${reminder.title}',
-      'Hatırlatıcı zamanı geldi.',
+      'Etkinliğin zamanı geldi.',
       scheduledNotificationDateTime,
       platformChannelSpecifics,
     );
