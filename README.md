@@ -28,7 +28,7 @@ path_provider: Cihazın dosya sistemine erişim sağlar. Yerel depolama için do
 
 ![Ekran görüntüsü 2024-06-08 224807](https://github.com/esmasila/HATIRLATICI-UYGULAMASI-/assets/168902924/d1194c4e-32de-445c-8951-2513d7a2ec86)
 
-![Ekran görüntüsü 2024-06-08 224826](https://github.com/esmasila/HATIRLATICI-UYGULAMASI-/assets/168902924/a4d86669-2392-4642-840c-5876c18ce8ea)
+![Ekran görüntüsü 2024-06-09 121515](https://github.com/esmasila/HATIRLATICI-UYGULAMASI-/assets/168902924/668299d7-f377-4320-9292-8f559f62b9d1)
 
 ![Ekran görüntüsü 2024-06-08 224907](https://github.com/esmasila/HATIRLATICI-UYGULAMASI-/assets/168902924/85d57fe6-75ed-45ca-b2d3-66508738c383)
 
